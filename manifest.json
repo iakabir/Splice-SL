@@ -1,0 +1,31 @@
+{
+  "name": "Splice SL",
+  "short_name": "Splice SL",
+  "description": "On-set shot logging for script supervisors — capture, tag, and export scene/shot/take data.",
+  "start_url": "./shot-log.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#14161B",
+  "theme_color": "#14161B",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
